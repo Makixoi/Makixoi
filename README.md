@@ -10,7 +10,7 @@
 
 <!-- Glitch Effect GIF -->
 <p align="center">
-  <img src="https://files.catbox.moe/a3xezu.mp4" width="300" />
+  <img src="https://i.imgur.com/icqmLYC.gif" width="300" />
 </p>
 
 ---
