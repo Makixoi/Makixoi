@@ -1,6 +1,6 @@
 <!-- Header with SVG Logo (Replace with your own custom logo) -->
 <h1 align="center">
-  <img src="https://your-custom-logo-link.com/logo.svg" width="250" alt="Maki Logo" />
+  <img src="https://files.catbox.moe/a3xezu.mp4" width="250" alt="Maki Logo" />
 </h1>
 
 <!-- Typing Animation -->
@@ -10,7 +10,7 @@
 
 <!-- Glitch Effect GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1C8tY3X1h3A3K/giphy.gif" width="300" />
+  <img src="https://files.catbox.moe/a3xezu.mp4" width="300" />
 </p>
 
 ---
