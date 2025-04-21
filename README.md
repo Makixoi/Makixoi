@@ -1,6 +1,6 @@
 <!-- Header with SVG Logo (Replace with your own custom logo) -->
 <h1 align="center">
-  <img src="https://files.catbox.moe/a3xezu.mp4" width="250" alt="Maki Logo" />
+  <img src="https://i.imgur.com/BHLxYmc.jpeg" width="250" alt="Maki Logo" />
 </h1>
 
 <!-- Typing Animation -->
