@@ -1,30 +1,38 @@
+<!-- Header with SVG Logo (Replace with your own custom logo) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+I'm+Maki;I+build+cool+stuff;I+love+clean+code+and+coffee" alt="Typing SVG" />
+  <img src="https://your-custom-logo-link.com/logo.svg" width="250" alt="Maki Logo" />
 </h1>
 
+<!-- Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Create.+Conquer.;Building+The+Future+One+Line+At+A+Time;Welcome+To+My+World." alt="Typing SVG" />
+</h3>
+
+<!-- Glitch Effect GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l3vR1C8tY3X1h3A3K/giphy.gif" width="300" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Building side projects & tools that solve real problems
-- ⚡ Enjoy minimalism, clean code, and sleek UI
-- 🌱 Learning DevOps, GraphQL & more
-- ☕ Powered by coffee & late-night coding
+
+- 🔭 I’m currently working on some **cool side projects** and learning **DevOps**.
+- ⚡ Passionate about building **dynamic web experiences** using **React**, **Node.js**, and **Python**.
+- 🌱 Learning new technologies like **GraphQL** and **Docker**.
+- 💬 Always up for a chat about **UI/UX**, **machine learning**, or **gaming**.
 
 ---
 
-### 🧰 Tech Toolbox
+### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,nodejs,figma,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,nodejs,figma,docker,git,graphql" />
 </p>
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maki&show_icons=true&theme=radical" height="170"/>
@@ -41,15 +49,26 @@
 
 ---
 
-### ✨ Fun Widgets
+### 🎵 Currently Listening to (Dynamic Spotify Embed)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maki&theme=radical" />
+  <a href="https://open.spotify.com/user/your-spotify-id">
+    <img src="https://spotify-now-playing-mu.vercel.app/api/spotify" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Let’s Connect
+### ✍️ Latest Blog Posts (Dynamic)
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built My Custom Terminal](#)
+- [5 Tips to Improve Your Git Workflow](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin">
@@ -63,3 +82,11 @@
 ---
 
 <p align="center"><i>“Creativity is intelligence having fun.”</i></p>
+
+---
+
+### 🌐 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=maki&theme=radical" />
+</p>
